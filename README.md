@@ -1,6 +1,8 @@
-# Information Security (ISA-561)
+# Information Security (ISA-562)
 
-Lab Setup Intructions
+This repository contains George Mason University - ISA 562 course (Information Security and Assurance) lab work.
+
+Lab Setup Intructions:
 -	This lab has been tested on a pre-configured Ubuntu 20.04 VM. When you download and unzip the file you will get a .vdi file representing the pre-configured Ubuntu image. 
 -	Install the free VirtualBox software to be able to run the Ubuntu image on your computer. The VM image has been tested on Version 6.1.16. You can check the following VM Manual to stand on the detailed steps to import the VM to VirtualBox.
 -	Start the VM and login into the account with the username seed, the password is dees. Once you are logged in to the VM, download the lab setup files from the following link: Lab Setup files.
