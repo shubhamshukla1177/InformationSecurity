@@ -1,4 +1,4 @@
-# Information Security
+# Information Security (ISA-561)
 
 Lab Setup Intructions
 -	This lab has been tested on a pre-configured Ubuntu 20.04 VM. When you download and unzip the file you will get a .vdi file representing the pre-configured Ubuntu image. 
